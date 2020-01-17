@@ -34,3 +34,9 @@ For convenience you can run automatically on docker container:
 ```bash
     ./run.sh
 ```
+
+## PyDaf
+
+This challenge repository is a stripped version of PyDaf that I developed for rapid test the datasets.
+
+[PyDaf repository](https://github.com/brunoazex/pydaf)
